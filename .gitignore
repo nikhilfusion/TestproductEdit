@@ -1,0 +1,7 @@
+pids
+logs
+results
+client/src/bower_components
+node_modules
+npm-debug.log
+/.idea
